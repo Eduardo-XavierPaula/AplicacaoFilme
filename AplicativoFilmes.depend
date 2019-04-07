@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1554657014 source:e:\usuario\documents\codeblock\projetos\aplicativofilmes\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
